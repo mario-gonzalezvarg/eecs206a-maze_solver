@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function About() {
     return (
         <div className="min-h-screen bg-white px-6 py-8">
@@ -12,3 +10,4 @@ export default function About() {
         </div>
     );
 }
+
